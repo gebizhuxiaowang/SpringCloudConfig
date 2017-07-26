@@ -1,1 +1,4 @@
 # SpringCloudConfig
+这是我练习用的springcloudconfig 文件
+spring Cloud Config
+用于存储用来保存各个服务的配置文件
